@@ -11,12 +11,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/thisumdinujaya/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Badge"  /></a>
 </div>
-
-###
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ThisumDinujaya&style=flat&color=blue" alt=""/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ThisumDinujaya.ThisumDinujaya&"  />
